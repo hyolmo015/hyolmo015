@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyolmo015
 - 👀 I’m interested in learning about network security
-- 🌱 I’m currently learning how to secure the netwoek and code.
+- 🌱 I’m currently learning how to secure the network and code.
 - 💞️ I’m looking to work with you all 
   
 
